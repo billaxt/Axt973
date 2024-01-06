@@ -1,5 +1,5 @@
 git init
-git remote add origin <repository_url>
+git remote add origin <https://github.com/billaxt/Axt973.git>
 git add .
 git commit -m "Initial commit"
 git push -u origin master
